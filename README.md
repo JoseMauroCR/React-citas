@@ -1,2 +1,2 @@
 ﻿# React-citas
-url:https://idyllic-basbousa-71d785.netlify.app/
+url https://iridescent-sable-9f72c2.netlify.app/
